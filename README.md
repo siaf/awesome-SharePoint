@@ -12,6 +12,9 @@
 - [spdocgen MOSS 2007 Farm Documentation Generator](https://spdocgen.codeplex.com/)
 - [spdocgen SP2010 Farm Documentation Generator](https://lekman.codeplex.com/releases/view/55953)
 - [spdocgen SP2013 Farm Documentation Generator](https://github.com/siaf/SP15DocGen)
+- [SP Property Bag Settings 2010](https://pbs2010.codeplex.com/)
+
+<!--- - SP Offline -->
 
 ## App Development
 - [SPFastDeploy](http://visualstudiogallery.msdn.microsoft.com/9e03d0f5-f931-4125-a5d1-7c1529554fbd)
@@ -26,6 +29,9 @@
 
 ## Developer Tools
 - [CKSDev](http://cksdev.codeplex.com/)
+- [SharePoint 2010 Fluent Ribbon Api](https://spribbon.codeplex.com/)
+- [SharePoint 2013 Easy Ribbon Api](https://easyribbon.codeplex.com/)
+- [SPMetal](http://msdn.microsoft.com/en-us/library/office/ee538255(v=office.14).aspx)
 
 ## Code Quality
 - [SPDisposeCheck](https://spdisposecheck2012.codeplex.com/)
@@ -33,7 +39,7 @@
 
 ## Deployment
 - [WSPBuilder](http://keutmann.blogspot.com/2009/12/wspbuilder-2010-beta.html)
-
+- [AutoSpDeploy](https://autospdeploy.codeplex.com/)
 
 ## Other
 - [Fiddler](http://www.fiddler2.com/fiddler2/)
@@ -49,10 +55,13 @@
 
 ## Branding
 - [Color Palette Tool for Branding](http://www.microsoft.com/en-us/download/details.aspx?id=38182)
+- [Starter Master Pages for SharePoint 2013](https://startermasterpages.codeplex.com/releases/view/97062)
+- [Starter Master Pages for SharePoint](https://startermasterpages.codeplex.com/)
 
 ## Search
 - [SharePoint 2013 Search Tool](http://sp2013searchtool.codeplex.com/)
 - [SharePoint Search Service Tool](https://sharepointsearchserv.codeplex.com/)
+- [SharePoint Search Explorer](http://blogs.technet.com/cfs-filesystemfile.ashx/__key/telligent-evolution-components-attachments/01-7508-00-00-03-35-01-19/SearchExplorer.zip)
 
 ## Mail
 - [smtp4dev](http://smtp4dev.codeplex.com/)
