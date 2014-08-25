@@ -5,6 +5,8 @@
 ## Logging
 - [SharePoint Log Viewer](https://sharepointlogviewer.codeplex.com/)
 - [SharePoint ULS Log Viewer](https://ulsviewer.codeplex.com/)
+- [ULS Viewer](http://blogs.technet.com/b/wbaer/archive/2014/08/22/uls-viewing-like-a-boss-uls-viewer-is-now-available.aspx)
+- [Visual Studio Integrated Uls Viewer](https://integrateduls.codeplex.com/)
 - [SPLIT - SharePoint Log Investigation Tool](http://split.codeplex.com/)
 
 ## Farm Admin 
@@ -13,6 +15,7 @@
 - [spdocgen SP2010 Farm Documentation Generator](https://lekman.codeplex.com/releases/view/55953)
 - [spdocgen SP2013 Farm Documentation Generator](https://github.com/siaf/SP15DocGen)
 - [SP Property Bag Settings 2010](https://pbs2010.codeplex.com/)
+- [SPBestWarpUp](https://spbestwarmup.codeplex.com/)
 
 <!--- - SP Offline -->
 
@@ -32,6 +35,9 @@
 - [SharePoint 2010 Fluent Ribbon Api](https://spribbon.codeplex.com/)
 - [SharePoint 2013 Easy Ribbon Api](https://easyribbon.codeplex.com/)
 - [SPMetal](http://msdn.microsoft.com/en-us/library/office/ee538255(v=office.14).aspx)
+- [SPServices](https://spservices.codeplex.com/)
+- [Office365 Development Patterns and Practices](https://github.com/OfficeDev/PnP)
+
 
 ## Code Quality
 - [SPDisposeCheck](https://spdisposecheck2012.codeplex.com/)
@@ -41,7 +47,7 @@
 - [WSPBuilder](http://keutmann.blogspot.com/2009/12/wspbuilder-2010-beta.html)
 - [AutoSpDeploy](https://autospdeploy.codeplex.com/)
 
-## Other
+## Inspection
 - [Fiddler](http://www.fiddler2.com/fiddler2/)
 - [.NET Reflector](http://www.reflector.net/)
 - [dotPeek](http://www.jetbrains.com/decompiler/)
